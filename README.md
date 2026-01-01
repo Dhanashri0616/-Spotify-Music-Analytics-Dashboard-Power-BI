@@ -39,7 +39,8 @@ Analyzing entertainment and media datasets
 Storytelling through data visualization    
 
 ## 📷 Dashboard Preview
-https://github.com/Dhanashri0616/-Spotify-Music-Analytics-Dashboard-Power-BI/blob/main/spotify%20dashbroad%201.jpeg
-https://github.com/Dhanashri0616/-Spotify-Music-Analytics-Dashboard-Power-BI/blob/main/spotify%20dashbroad%202.jpeg
-https://github.com/Dhanashri0616/-Spotify-Music-Analytics-Dashboard-Power-BI/blob/main/spotify%20dashbroad%203.jpeg
+<img src="https://github.com/Dhanashri0616/-Spotify-Music-Analytics-Dashboard-Power-BI/blob/main/spotify%20dashbroad%201.jpeg"width="80%">
+<img src="https://github.com/Dhanashri0616/-Spotify-Music-Analytics-Dashboard-Power-BI/blob/main/spotify%20dashbroad%202.jpeg"width="80%">
+<img src="https://github.com/Dhanashri0616/-Spotify-Music-Analytics-Dashboard-Power-BI/blob/main/spotify%20dashbroad%203.jpeg"width="80%">
+<img src="https://github.com/Dhanashri0616/-Spotify-Music-Analytics-Dashboard-Power-BI/blob/main/spotify%20dashbroad%204.jpeg"width="80%">
 
