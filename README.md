@@ -40,3 +40,4 @@ Storytelling through data visualization
 
 ## 📷 Dashboard Preview
 https://github.com/Dhanashri0616/-Spotify-Music-Analytics-Dashboard-Power-BI/blob/main/spotify%20dashbroad%201.jpeg
+https://github.com/Dhanashri0616/-Spotify-Music-Analytics-Dashboard-Power-BI/blob/main/spotify%20dashbroad%202.jpeg
